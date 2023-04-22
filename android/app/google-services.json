@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14333827290",
+    "project_id": "crud-657a3",
+    "storage_bucket": "crud-657a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14333827290:android:e097a2495dbe62923c6de3",
+        "android_client_info": {
+          "package_name": "com.example.minipro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14333827290-i499m9hcck4bcutgmh559iai600bqfo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR4vvMdLWaL-ZD0LajWfaf6qEWlwRArkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14333827290-i499m9hcck4bcutgmh559iai600bqfo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

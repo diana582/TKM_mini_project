@@ -4,6 +4,7 @@ import 'package:minipro/home.dart';
 
 
 class Admin extends StatelessWidget {
+  final controller = TextEditingController();
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -30,6 +31,7 @@ class Admin extends StatelessWidget {
                 
               ),
               child: TextField(
+                controller: controller,
                 decoration: InputDecoration(
                       contentPadding: EdgeInsets.all(8),
                       
